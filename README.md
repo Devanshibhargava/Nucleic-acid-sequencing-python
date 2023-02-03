@@ -1,6 +1,7 @@
 # Nucleic-acid-sequencing-python
 
-This notebook is a compilation of my notes from coursera's guided project Reverse and complement nucleic acid sequences (DNA, RNA) using Python
+This notebook is a compilation of my notes from coursera's guided project - Reverse and complement nucleic acid sequences (DNA, RNA) using Python.
+
 Computational sequence analysis of DNA, RNA or peptide sequence provides information on its properties, biological function, structure and evolution(1). Sequence alignment tools such as FASTA and BLAST help extract sequence identity and similarity between protein sequences of any organisms(2).
 One function of the alignment tools is to determine reverse, complement and reverse-complement sequences for any nucleic acid sequence. 
 
